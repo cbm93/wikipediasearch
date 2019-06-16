@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Search Wikipedia</title>
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css'>
+<link rel="stylesheet" href="./style.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+<script src='jquery.min.js'></script>
+<script src='jquery-ui.min.js'></script>
+<script src='typed.min.js'></script>
+<script src="./script.js"></script>
+  
+</head>
+
+<body>
+
+  <form id="form">
+  <h1><span id="wiki" class="typed"></span></h1>
+  <input type="text" id="input"></input>
+   <br></br>
+  <button id="searchClick" type="submit">Search</button>
+  <button id="random-button" type="button" onClick="location.href='http://en.wikipedia.org/wiki/Special:Random'" formtarget="_blank">Random
+  </button>
+</form>
+
+<div id="data" class="display-none">
+</div>
+</body>
+
+</html>
+
+
+
