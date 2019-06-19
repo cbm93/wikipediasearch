@@ -5,7 +5,7 @@ This repo contains a simplistic Wikipedia application that allows you to search 
 Demo: https://colinmackinnon.github.io/wikipediasearch/
 
 
-* Fully responsive
+* Responsive
 * Bootstrap grid system
 * Simplistic
 * Static
