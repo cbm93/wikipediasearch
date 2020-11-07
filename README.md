@@ -8,7 +8,7 @@ This repo contains a simplistic Wikipedia application that allows you to search 
 
 # Comments
 
-This project was my first project where I had successfully pulled information from an API
+This project was my first project where I had successfully pulled information from an API.
 
 # Demo
 
