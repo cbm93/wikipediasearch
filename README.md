@@ -12,4 +12,4 @@ This project was my first project where I had successfully pulled information fr
 
 # Demo
 
-!https://colinmackinnon.github.io/wikipediasearch/
+!https://cbm93.github.io/wikipediasearch/
